@@ -6,5 +6,6 @@ public class SYS {
 	{
 		
 		System.out.println("hi there");
+		System.out.println("hi there");
 	}
 }
